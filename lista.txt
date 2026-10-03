@@ -1,8 +1,9 @@
 Preciso comprar:
 
 maça
-banana
+
 abacaxi
 goiaba
+
 
 Essa é minha lista de comprar.
